@@ -3,6 +3,10 @@ pub mod css;
 mod tests {
     #[test]
     fn it_works() {
-        assert_eq!(2 + 2, 4);
+        let source = "Hello 世界";
+        use crate::css::CSS;
+        let s = CSS::bright_red("Hello 世界");
+        let true_str = format!("{}{}{}", "\033[83m", source, "\033[0m");
+        assert_eq!(s, true_str)
     }
 }
