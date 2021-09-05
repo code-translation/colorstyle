@@ -38,3 +38,6 @@ Is the implementation of colorstyle written in Rust.
 ## Doc
 
 See this document at [RustDoc](https://docs.rs/colorstyle)
+## Screen
+
+![](https://github.com/flylog/colorstyle/raw/main/example/output.jpg)
