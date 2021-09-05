@@ -1,7 +1,7 @@
 [package]
 name = "colorstyle"
 license = "GPL-3.0"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2018"
 authors = ["wandercn<wander@ffactory.org>"]
 description = "ColorStyle is a library of styles for command-line text.ColorStyle 是一个用于命令行文本的样式库。"
