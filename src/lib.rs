@@ -224,8 +224,8 @@ impl CSS {
     /// # Example
     /// ```
     /// colorstyle::CSS::new().style_bold().println("a bold text: Hello 世界!");
-    /// ```
-    /// ```
+    ///  
+    /// //or
     ///  let mut css = colorstyle::CSS::new();
     ///  css.style_bold().println("a bold text: Hello 世界!");
     /// ```
