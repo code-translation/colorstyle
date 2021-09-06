@@ -1,4 +1,0 @@
-buildcmd = "cargo build"
-excludedir = [".git", "tmp", "docs", "vendor","target"]
-projectdir = "/Users/apple/workspace/src/github.com/code-translation/colorstyle"
-runcmd = "cargo build"
