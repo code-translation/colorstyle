@@ -15,15 +15,15 @@ Inspired by [flylog/colorstyle](https://github.com/flylog/colorstyle) (golang)
   let text = colorstyle::CSS::new().color_red().sprint("red");
   println!("a {} text",text);
 
-  colorstyle::CSS::new().style_italic().color_red().bg_yellow().println("a italic red bgYellow text: {} Hello 世界!");
+  colorstyle::CSS::new().style_italic().color_red().bg_yellow().println("a italic red bgYellow text:  Hello 世界!");
 
-  colorstyle::CSS::new().style_bold().println("a bold text: {}Hello 世界!");
+  colorstyle::CSS::new().style_bold().println("a bold text: Hello 世界!");
 
-  colorstyle::CSS::new().style_italic().println("a italic text: {}Hello 世界!");
+  colorstyle::CSS::new().style_italic().println("a italic text: Hello 世界!");
 
-  colorstyle::CSS::new().color_magenta().println("a magenta text: {}Hello 世界!");
+  colorstyle::CSS::new().color_magenta().println("a magenta text: Hello 世界!");
 
-  colorstyle::CSS::new().bg_cyan().println("a background color cyan text: {}Hello 世界!");
+  colorstyle::CSS::new().bg_cyan().println("a background color cyan text: Hello 世界!");
 
   colorstyle::CSS::new().bg_cyan().println("a background color cyan text");
   
