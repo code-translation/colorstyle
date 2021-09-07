@@ -1,11 +1,9 @@
-# colorstyle in Rust
+# Colorstyle in Rust
 colorStyle is a library of styles for command-line text.
 
 Inspired by [flylog/colorstyle](https://github.com/flylog/colorstyle) (golang)
 
-It is the implementation of colorstyle written in Rust.
-
-## example
+## Example
 
 ```
   let text = colorstyle::green("green");
