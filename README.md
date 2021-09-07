@@ -37,7 +37,7 @@ Inspired by [flylog/colorstyle](https://github.com/flylog/colorstyle) (golang)
 
 ## Doc
 
-See this document at [RustDoc](https://docs.rs/colorstyle)
+See this document at [API documentation](https://docs.rs/colorstyle)
 ## Screen
 
 ![](https://github.com/flylog/colorstyle/raw/main/example/output.jpg)
