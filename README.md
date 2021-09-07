@@ -1,12 +1,13 @@
-# [Colorstyle](https://crates.io/crates/colorstyle)
+# [Colorstyle](https://colorstyle.ffactory.org)
 
 [![crates.io](https://img.shields.io/crates/v/colorstyle.svg?color=yellow)](https://crates.io/crates/colorstyle)
-![](https://img.shields.io/github/workflow/status/code-translation/colorstyle/Rust)
-![](https://img.shields.io/github/languages/top/code-translation/colorstyle)
 [![Released API docs](https://docs.rs/colorstyle/badge.svg)](https://docs.rs/colorstyle)
 [![GPL3 licensed](https://img.shields.io/github/license/code-translation/colorstyle.svg)](./LICENSE)
-[![Crates.io](https://img.shields.io/crates/d/colorstyle)](https://crates.io/crates/colorstyle)
-[![Lines of code](https://img.shields.io/tokei/lines/github/code-translation/colorstyle)](https://github.com/code-translation/colorstyle)
+[![Downloads of Crates.io](https://img.shields.io/crates/d/colorstyle.svg)](https://crates.io/crates/colorstyle)
+[![Lines of code](https://img.shields.io/tokei/lines/github/code-translation/colorstyle.svg)](#)
+[![Build](https://img.shields.io/github/workflow/status/code-translation/colorstyle/Rust.svg)](#)
+[![Languages](https://img.shields.io/github/languages/top/code-translation/colorstyle.svg)](#)
+<!-- [![Downloads of releases](https://img.shields.io/github/downloads/code-translation/colorstyle/total.svg)](https://github.com/code-translation/colorstyle/releases/latest) -->
 
 
 
