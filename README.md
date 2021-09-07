@@ -1,4 +1,4 @@
-# [Colorstyle](http://colorstyle.ffactory.org)
+# [Colorstyle](https://crates.io/crates/colorstyle)
 
 [![crates.io](https://img.shields.io/crates/v/colorstyle.svg?color=yellow)](https://crates.io/crates/colorstyle)
 ![](https://img.shields.io/github/workflow/status/code-translation/colorstyle/Rust)
