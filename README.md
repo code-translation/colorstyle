@@ -50,6 +50,8 @@ Inspired by [flylog/colorstyle](https://github.com/flylog/colorstyle) (golang)
 ## Doc
 
 See this document at [API documentation](https://docs.rs/colorstyle)
+## Todo
+- [ ] 增加sprintf()宏，参考标准的println!()
 ## Screen
 
 ![](https://github.com/flylog/colorstyle/raw/main/example/output.jpg)
